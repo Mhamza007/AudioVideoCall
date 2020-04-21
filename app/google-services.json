@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210379622092",
+    "firebase_url": "https://audiovideocall-mhamza007.firebaseio.com",
+    "project_id": "audiovideocall-mhamza007",
+    "storage_bucket": "audiovideocall-mhamza007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210379622092:android:1824209e5f288eaae7e469",
+        "android_client_info": {
+          "package_name": "com.mhamza007.audiovideocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210379622092-5jupqu3bihlste3vpcg6j6soh1u8g5hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhamza007.audiovideocall",
+            "certificate_hash": "7f8776f0ce77493d08ace72bea1dd56df0d771ec"
+          }
+        },
+        {
+          "client_id": "210379622092-jc40d5f8ai4ekfo0c58r27bgc70151um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_DaEzFWSLHQRsuz7kT9Oghs28ct5eU2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210379622092-jc40d5f8ai4ekfo0c58r27bgc70151um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
